@@ -2,8 +2,6 @@
 
 This repository contains a smart contract-based trading bot for **Ethereum-based tokens**, designed to interact with decentralized exchanges (DEXs) such as **Uniswap** and **GMX**. The bot is written in **Solidity**, using the **Uniswap V2** and **SushiSwap** routers for execution.
 
----
-
 ## 🚀 Features
 
 - Supports trading on Uniswap V2 and SushiSwap
@@ -11,8 +9,6 @@ This repository contains a smart contract-based trading bot for **Ethereum-based
 - Automated trading logic for ETH-based tokens
 - Simple start/stop interaction with the contract
 - Withdraw functionality for profit collection
-
----
 
 ## 🛠️ Setup Instructions
 
@@ -49,9 +45,7 @@ Follow these steps to deploy and run your own trading bot:
 - To stop and withdraw funds, click **"Withdrawal"**
 - For best results, allow the bot to run for at least 24 hours
 
----
-
-## 🔗 Connect With Us
+## 🔗 Connect With Me
 
 - 📬 [Telegram](https://t.me/tyleryoungdev)
 - 💼 [LinkedIn](https://linkedin.com/in/tyler-young-dev)
